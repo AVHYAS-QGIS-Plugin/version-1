@@ -9,4 +9,10 @@ Hyperspectral Techniques Development Division,
 Advanced Microwave and Hyperspectral Techniques Development Group, EPSA, 
 Space Applications Centre, Indian Space Research Organisation, Ahmadabad, Gujarat, India - 380015
 
+Visit Us: https://sites.google.com/view/avhyas-sac-isro
 
+If you find AVHYAS useful in your research, please consider citing:
+
+
+
+![image](https://user-images.githubusercontent.com/86385854/123178762-85896b00-d4a5-11eb-8719-ddba05a22028.png)
