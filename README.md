@@ -12,6 +12,7 @@ Space Applications Centre, Indian Space Research Organisation, Ahmadabad, Gujara
 Visit Us: https://sites.google.com/view/avhyas-sac-isro
 
 If you find AVHYAS useful in your research, please consider citing:
+
 Rosly Boy Lyngdoh , Anand S Sahadevan , Touseef Ahmad , Pradyuman Singh Rathore , Manoj Mishra , Praveen Kumar Gupta, Arundhati Misra, "AVHYAS: A Free and Open Source QGIS Plug-in for Advanced Hyperspectral Image Analysis",  IEEE International Conference on Emerging Techniques in Computational Intelligence – ICETCI-2021. 
 
 
